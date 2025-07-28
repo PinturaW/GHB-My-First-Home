@@ -1,7 +1,14 @@
 {
-  "build": {
-    "env": {
-      "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
-    }
+    "buildCommand": "npx expo export -p web",
+    "outputDirectory": "dist",
+    "devCommand": "npx expo start --web",
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "rewrites": [
+      {
+        "source": "/((?!_expo|assets).*)",
+        "destination": "/index.html"
+      }
+    ]
   }
-}
+  
