@@ -1,14 +1,14 @@
 {
-    "buildCommand": "npx expo export -p web",
-    "outputDirectory": "dist",
-    "devCommand": "npx expo start --web",
-    "cleanUrls": true,
-    "trailingSlash": false,
-    "rewrites": [
-      {
-        "source": "/((?!_expo|assets).*)",
-        "destination": "/index.html"
-      }
-    ]
-  }
-  
+  "buildCommand": "npx expo export -p web",
+  "outputDirectory": "dist",
+  "devCommand": "npx expo start --web",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "installCommand": "npm install --legacy-peer-deps",
+  "rewrites": [
+    {
+      "source": "/((?!_expo|assets).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
