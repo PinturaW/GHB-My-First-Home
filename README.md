@@ -75,11 +75,9 @@ All activity contributes to a growing **Trust Score**
 
 ---
 
-## 📬 Contact
-
+## 📬 Contact  
 Developed by **Wichuon Charoensombat** (PinturaW)  
-📧 [LinkedIn](https://www.linkedin.com/in/wichuon-charoensombat)  
-📦 [GitHub](https://github.com/PinturaW)
+📧 Reach me on [LinkedIn](https://www.linkedin.com/in/wichuon-charoensombat) or GitHub
 
 ---
 
