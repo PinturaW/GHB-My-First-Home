@@ -85,4 +85,5 @@ Developed by **Wichuon Charoensombat** (PinturaW)
 
 ---
 
+> Verify Income. Build Discipline. Unlock Opportunity.
 > Empowering financial dignity and homeownership for all 🌱🏡
