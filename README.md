@@ -4,6 +4,8 @@
 
 **GHB My First Home** is a mobile-first web app designed to help **informal workers in Thailand**—such as farmers, freelancers, delivery riders, and market vendors—build their **financial credibility** without the need for traditional documents like payslips or formal credit scores. The goal is to empower access to government housing loans through a fair, behavior-based credit system.
 
+The solution won **first place** at the **GHB Open Innovation Hackathon 2025** under the theme “The Future of Finance with GHB”, for its potential to empower access to government housing loans through a fair, behavior-based credit scoring system.
+
 👉 **Live Demo**: [ghbank-app.vercel.app](https://ghbank-app.vercel.app)
 
 ---
