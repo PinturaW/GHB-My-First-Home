@@ -14,10 +14,10 @@ The solution won **first place** at the **GHB Open Innovation Hackathon 2025** u
 
 When users first access the app, they are guided to:
 
-1. ✅ **Verify their identity and income**
-2. ✅ **Create a personalized income profile**  
+1. **Verify their identity and income**
+2. **Create a personalized income profile**  
    (e.g., choose a profession like rider or farmer; enter average income)
-3. 📎 **Upload supporting documents**  
+3. **Upload supporting documents**  
    (e.g., national ID, bank statements)
 
 Once complete, the system:
@@ -63,10 +63,10 @@ All activity contributes to a growing **Trust Score**
 
 ### 3. Credit Scoring & Certificate
 
-- 🤖 AI verifies documents and analyzes consistency
-- 📊 Trust Score increases with sustained usage and uploads
-- 🏦 The score can simulate loan eligibility and housing program matches
-- 📄 Eligible users can **download a Creditworthiness Certificate** to present to banks
+- AI verifies documents and analyzes consistency
+- Trust Score increases with sustained usage and uploads
+- The score can simulate loan eligibility and housing program matches
+- Eligible users can **download a Creditworthiness Certificate** to present to banks
 
 ---
 
